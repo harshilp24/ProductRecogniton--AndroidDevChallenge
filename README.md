@@ -9,7 +9,7 @@ Tell us what your idea is.
 
 Product Recognition . My Idea is to make an app for everyone not only for blind people. Where users can click a photo of any product like Dress,watches,shoes etc. They will find similar results of that product with same type,brand and color. Then they will be taken to purchase that product from amazon,alibaba and other sites.   
 
-I tried making a simple video to explain. VIDEO LINK
+I tried making a simple video to explain. VIDEO LINK - https://www.youtube.com/watch?v=YM1co_grIPg
 
 
 Tell us how you plan on bringing it to life.
